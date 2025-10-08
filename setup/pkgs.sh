@@ -9,6 +9,7 @@ general=(
     "flatpak"
     "vim"
     "inotify-tools"
+    "playerctl"
 )
 
 hyprland=(
